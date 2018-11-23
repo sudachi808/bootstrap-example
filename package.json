@@ -15,5 +15,8 @@
     "gulp-ejs": "^3.3.0",
     "jquery": "^3.3.1",
     "popper": "^1.0.1"
+  },
+  "dependencies": {
+    "cryptiles": "^4.1.3"
   }
 }
